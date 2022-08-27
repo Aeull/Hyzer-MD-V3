@@ -15,7 +15,7 @@ global.gopay = ''
 //=============『 Info Bot 』=================//
 global.namebot = 'ArullBotz'
 global.gc = 'https://chat.whatsapp.com/LHfAOQ4sa2g40Bu5sXDWva'
-global.web = 'https://chat.whatsapp.com/ItwCvXL02hg11U5qNaLSBe' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.web = 'https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = 'Permanen 15.000\n1 bulan 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
