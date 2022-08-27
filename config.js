@@ -1,21 +1,21 @@
 //=============『 Utama 』================== //
-global.owner = ['6285669833748'] 
+global.owner = ['6285822347348'] 
 global.mods = [] 
 global.prems = [''] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'AdamlOfc'
-global.numberowner = '6285669833748'
+global.nameowner = 'Arull'
+global.numberowner = '6285822347348'
 global.instagram = 'https://instagram.com/sahrulwara_____'
-global.github = 'https://github.com/sahrull11'
+global.github = 'https://github.com/Warikrr'
 global.dana = '085822347348'
-global.pulsa = '085669833748,085669833748'
+global.pulsa = '085822347348'
 global.gopay = ''
 
 //=============『 Info Bot 』=================//
-global.namebot = 'XDam.botz'
-global.gc = 'https://chat.whatsapp.com/Jxt0CRpnOEJAlG05VfJxb1'
-global.web = 'https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.namebot = 'ArullBotz'
+global.gc = 'https://chat.whatsapp.com/LHfAOQ4sa2g40Bu5sXDWva'
+global.web = 'https://chat.whatsapp.com/ItwCvXL02hg11U5qNaLSBe' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = 'Permanen 15.000\n1 bulan 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
@@ -23,10 +23,10 @@ global.fotonya1 = 'https://telegra.ph/file/d6b8427c43c0bf596c1e2.jpg' //ganti ja
 global.fotonya2 = 'https://telegra.ph/file/d6b8427c43c0bf596c1e2.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '© XDam.botz'
+global.wm = '© ArullBotz'
 global.watermark = wm
-global.wm2 = '「 XDam.botz 」'
-global.wm3 = '© XDam.botz'
+global.wm2 = '「 ArullBotz 」'
+global.wm3 = '©Arull'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/d6b8427c43c0bf596c1e2.jpg'
